@@ -1,23 +1,7 @@
 {
-  "commit": "089ae6a6477c486fee3563a95d3e510f2b6cd9b2",
-  "generated": "2026-03-09T05:21:10.819Z",
+  "commit": "8ff6b8121c7ca05fcec48f6b1f7e190ebda5ea91",
+  "generated": "2026-03-09T05:21:32.229Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "",
-        "hash": "228379344",
-        "path": "outstatic/content/_singletons/about.md"
-      },
-      "author": {
-        "name": "Bima Janur",
-        "picture": "https://avatars.githubusercontent.com/u/1619397?v=4"
-      },
-      "collection": "_singletons",
-      "publishedAt": "2026-03-09T05:55:45.186Z",
-      "slug": "about",
-      "status": "draft",
-      "title": "About"
-    },
     {
       "__outstatic": {
         "commit": "089ae6a6477c486fee3563a95d3e510f2b6cd9b2",
@@ -33,6 +17,22 @@
       "slug": "berita-terbaru",
       "status": "published",
       "title": "Berita Terbaru"
+    },
+    {
+      "__outstatic": {
+        "commit": "8ff6b8121c7ca05fcec48f6b1f7e190ebda5ea91",
+        "hash": "2536045147",
+        "path": "outstatic/content/_singletons/about.md"
+      },
+      "author": {
+        "name": "Bima Janur",
+        "picture": "https://avatars.githubusercontent.com/u/1619397?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-03-09T05:55:45.186Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
