@@ -1,6 +1,6 @@
 {
-  "commit": "",
-  "generated": "2026-03-09T05:14:34.722Z",
+  "commit": "c1665918c7808c27a5a2ee59e21fe8ef35098b21",
+  "generated": "2026-03-09T05:21:05.537Z",
   "metadata": [
     {
       "__outstatic": {
@@ -17,6 +17,22 @@
       "slug": "about",
       "status": "draft",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "c1665918c7808c27a5a2ee59e21fe8ef35098b21",
+        "hash": "2878398678",
+        "path": "outstatic/content/posts/berita-terbaru.md"
+      },
+      "author": {
+        "name": "Bima Janur",
+        "picture": "https://avatars.githubusercontent.com/u/1619397?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2026-03-09T06:02:42.706Z",
+      "slug": "berita-terbaru",
+      "status": "draft",
+      "title": "Berita Terbaru"
     }
   ]
 }
