@@ -1,7 +1,7 @@
 ---
 title: "Berita Terbaru"
 publishedAt: "2026-03-09T06:02:42.706Z"
-status: "draft"
+status: "published"
 author:
   name: "Bima Janur"
   picture: "https://avatars.githubusercontent.com/u/1619397?v=4"
